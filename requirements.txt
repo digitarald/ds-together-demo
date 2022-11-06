@@ -4,4 +4,4 @@ seaborn
 pandas
 ipykernel
 regex
-scipy
+sklearn
